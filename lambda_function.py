@@ -14,29 +14,3 @@ def lambda_handler(event, context):
      print(df)
      print('Demo completed !!!')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
